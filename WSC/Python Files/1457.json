@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1457",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbsXue6im2oXvvpQ8dAnAe3UiSVUhjZtSYEmA9ZstJerw",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbsXue6im2oXvvpQ8dAnAe3UiSVUhjZtSYEmA9ZstJerw",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lehman Siblings T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ushanka"
+        }
+    ]
+}

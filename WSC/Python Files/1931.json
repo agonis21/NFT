@@ -1,0 +1,44 @@
+{
+    "name": "Chad #1931",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTSFPYuLeSG2h2dqaaxVywLE64e9D4TBx88BLBhDRUXon",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTSFPYuLeSG2h2dqaaxVywLE64e9D4TBx88BLBhDRUXon",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Bowie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "VC Fleece"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Murica"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Aviators Cyborg"
+        }
+    ]
+}

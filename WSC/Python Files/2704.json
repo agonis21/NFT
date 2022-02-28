@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2704",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPpmgCkbYqC4w29sYcvHWq7pxW3i9djV6DXrK9jGgWGoV",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPpmgCkbYqC4w29sYcvHWq7pxW3i9djV6DXrK9jGgWGoV",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Wen Moon T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Surfer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

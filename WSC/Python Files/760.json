@@ -1,0 +1,44 @@
+{
+    "name": "Chad #760",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcnJazk9sTPcxkAts88Kiuzdgh15rgPG3W1ocbwNHvK2a",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcnJazk9sTPcxkAts88Kiuzdgh15rgPG3W1ocbwNHvK2a",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Gym"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Founder Life"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        }
+    ]
+}

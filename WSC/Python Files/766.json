@@ -1,0 +1,40 @@
+{
+    "name": "Chad #766",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWustuWNXh1AKtQqTsUbdWW9ZiR5UKGr9TtgQwCExjinU",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWustuWNXh1AKtQqTsUbdWW9ZiR5UKGr9TtgQwCExjinU",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Exec Suit"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Wise Grey Beard"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Punk Mohawk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Swimmies"
+        }
+    ]
+}

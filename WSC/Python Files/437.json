@@ -1,0 +1,44 @@
+{
+    "name": "Chad #437",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbdTrFGfUnuhnGMW4Z6sJA3fj5pKzJy8U5xvXW4L9tScJ",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbdTrFGfUnuhnGMW4Z6sJA3fj5pKzJy8U5xvXW4L9tScJ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Bowie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Astronaut"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Double Helix"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Red Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Three-Eyed"
+        }
+    ]
+}

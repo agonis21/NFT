@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1888",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmd9qiPoq3xzxkitec7E3ecTCLF4XmsydRK8dk5pcPCAQ8",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmd9qiPoq3xzxkitec7E3ecTCLF4XmsydRK8dk5pcPCAQ8",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        }
+    ]
+}

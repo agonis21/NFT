@@ -1,0 +1,36 @@
+{
+    "name": "Chad #693",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdKEwGd1Vw5vTXCwjTZVLwpt2mpKyZEkpJdbjz1vRm4jo",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdKEwGd1Vw5vTXCwjTZVLwpt2mpKyZEkpJdbjz1vRm4jo",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Army Gear"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Frazzled Bleached"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        }
+    ]
+}

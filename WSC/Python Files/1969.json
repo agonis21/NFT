@@ -1,0 +1,44 @@
+{
+    "name": "Chad #1969",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRnXyF4ZQg6MjihZXbeuy1hq9vD3TmSRt8G7aa2Z1dZxP",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRnXyF4ZQg6MjihZXbeuy1hq9vD3TmSRt8G7aa2Z1dZxP",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Tear Drop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Verdi Beard"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

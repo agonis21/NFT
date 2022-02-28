@@ -1,0 +1,44 @@
+{
+    "name": "Chad #2810",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSYVMyMZMT5Qp5xLGUiTcYEUqFg8DWixLJB7qHKnBGq5D",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmSYVMyMZMT5Qp5xLGUiTcYEUqFg8DWixLJB7qHKnBGq5D",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Tear Drop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        }
+    ]
+}

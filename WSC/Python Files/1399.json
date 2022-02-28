@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1399",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmciCNQfntkiKziss8ak4cwrjTRCEkcQNeDYPVaT5MzMXj",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmciCNQfntkiKziss8ak4cwrjTRCEkcQNeDYPVaT5MzMXj",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Gym"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver Ring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Helicopter Cap"
+        }
+    ]
+}

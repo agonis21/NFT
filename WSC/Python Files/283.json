@@ -1,0 +1,40 @@
+{
+    "name": "Chad #283",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcuTDeiZgvuBzoWTxk9ZcHJM14gnsxkzkDKCoKGTgb7pF",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcuTDeiZgvuBzoWTxk9ZcHJM14gnsxkzkDKCoKGTgb7pF",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Bowie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Wen Moon T"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

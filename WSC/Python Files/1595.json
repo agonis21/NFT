@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1595",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmbui57cBhhx1Y5YWn6sQyXzRUSsjgm4gvZnyTmsGzbg65",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmbui57cBhhx1Y5YWn6sQyXzRUSsjgm4gvZnyTmsGzbg65",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blood-stained T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

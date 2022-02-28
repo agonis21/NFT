@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1718",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRPfVP8NxHbCbWrGHxZNrrwnKuMdBDn3zgTpypAW8Na3f",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRPfVP8NxHbCbWrGHxZNrrwnKuMdBDn3zgTpypAW8Na3f",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Mustard Polo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Doge Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fear & Loathing"
+        }
+    ]
+}

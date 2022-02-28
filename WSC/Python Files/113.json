@@ -1,0 +1,36 @@
+{
+    "name": "Chad #113",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNeDUhDYST2tJY7yPbNuzfs2dEt1GkHgfvAuAbKVC5QPL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNeDUhDYST2tJY7yPbNuzfs2dEt1GkHgfvAuAbKVC5QPL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "\"Investor\" T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Rainbow Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Villain Monocle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

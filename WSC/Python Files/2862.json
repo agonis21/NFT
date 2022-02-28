@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2862",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaGvM6191676M5pEGMoyw8954LWvKS9uSrK23TaJBze6G",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmaGvM6191676M5pEGMoyw8954LWvKS9uSrK23TaJBze6G",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lil Chaddy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        }
+    ]
+}

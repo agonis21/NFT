@@ -1,0 +1,40 @@
+{
+    "name": "Chad #808",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPsJrvrdb8vnD7tRDuWDNbYEb97vDeRm1BmtZmGMpJ1k4",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPsJrvrdb8vnD7tRDuWDNbYEb97vDeRm1BmtZmGMpJ1k4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hodl 2 Moon T"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Verdi Beard"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1252",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVoz1MgexSkdtAkffcVNFN5Ck2JPdBWxs8uH55ZX1yNsC",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVoz1MgexSkdtAkffcVNFN5Ck2JPdBWxs8uH55ZX1yNsC",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Tear Drop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dapper Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Top Knot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        }
+    ]
+}

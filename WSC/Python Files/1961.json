@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1961",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmevPDjofvM9Gny4r5ZTUEHQ38Yb8azEcpgPJq7GHTQ4rW",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmevPDjofvM9Gny4r5ZTUEHQ38Yb8azEcpgPJq7GHTQ4rW",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Exec Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Rainbow Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Villain Monocle"
+        }
+    ]
+}

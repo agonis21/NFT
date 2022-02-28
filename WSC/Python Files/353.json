@@ -1,0 +1,36 @@
+{
+    "name": "Chad #353",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmU3j5wfFaqUjGYYHjHQzRr98fJaLSrgrkZXJSQrajG4DG",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmU3j5wfFaqUjGYYHjHQzRr98fJaLSrgrkZXJSQrajG4DG",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Analyst Blazer"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fear & Loathing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

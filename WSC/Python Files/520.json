@@ -1,0 +1,44 @@
+{
+    "name": "Chad #520",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qme4sQjNYWAASfwBntk6XVSNvR6bDbsZuQpSXmNBrDnoRi",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qme4sQjNYWAASfwBntk6XVSNvR6bDbsZuQpSXmNBrDnoRi",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Jeans Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Double Helix"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Beanie"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #550",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdGVksVkvsaFEtyuTRa3WXcj68NDuM5rA4rinJnxD1oU5",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdGVksVkvsaFEtyuTRa3WXcj68NDuM5rA4rinJnxD1oU5",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Tear Drop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Trench Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gamer Headset"
+        }
+    ]
+}

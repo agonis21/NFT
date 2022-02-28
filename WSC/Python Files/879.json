@@ -1,0 +1,36 @@
+{
+    "name": "Chad #879",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZBu7CuL2tGBbvi6kmkjKNs1dmrt5SqmcruodyvYqKoTJ",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZBu7CuL2tGBbvi6kmkjKNs1dmrt5SqmcruodyvYqKoTJ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Puffer Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Aviators Cyborg"
+        }
+    ]
+}

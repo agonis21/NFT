@@ -1,0 +1,40 @@
+{
+    "name": "Chad #140",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmV8kCNzpfeAAgELRNJBpPdXvH5Ua8VigZEMmRZKXmR8Sn",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmV8kCNzpfeAAgELRNJBpPdXvH5Ua8VigZEMmRZKXmR8Sn",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        }
+    ]
+}

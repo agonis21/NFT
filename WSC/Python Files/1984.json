@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1984",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdA5wAFq91JHAJjXqsCCrWdubrw7SJDDFd58j9aM2L4Ez",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdA5wAFq91JHAJjXqsCCrWdubrw7SJDDFd58j9aM2L4Ez",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Barbed Wire"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "\"Investor\" T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Mullet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

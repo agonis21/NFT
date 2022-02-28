@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2013",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmefaEFgNrTdjLHCoN1NFgCNneToc6k4EsJrE9N6TwaXfP",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmefaEFgNrTdjLHCoN1NFgCNneToc6k4EsJrE9N6TwaXfP",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Analyst Blazer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Rainbow Fro"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud & Cross"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Accountant Rims"
+        }
+    ]
+}

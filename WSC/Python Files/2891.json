@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2891",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSijTopSt71jwEx688GL7i8UUDJcuJ14Qimm5Qh3inX6U",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmSijTopSt71jwEx688GL7i8UUDJcuJ14Qimm5Qh3inX6U",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Analyst Blazer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyborg"
+        }
+    ]
+}

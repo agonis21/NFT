@@ -1,0 +1,36 @@
+{
+    "name": "Chad #469",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfFXHKnSZGSZA4soe7xZbikKY2UyswoHEYqEo1AY8sfXQ",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmfFXHKnSZGSZA4soe7xZbikKY2UyswoHEYqEo1AY8sfXQ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Army Gear"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The Gambler"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

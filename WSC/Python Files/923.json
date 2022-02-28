@@ -1,0 +1,40 @@
+{
+    "name": "Chad #923",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaRQakPV9KxVko8nfvnsznWJLjsiRLFMiTehGEAGAnjik",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmaRQakPV9KxVko8nfvnsznWJLjsiRLFMiTehGEAGAnjik",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Disco Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Helix Set"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "BlackBerry Cap"
+        }
+    ]
+}

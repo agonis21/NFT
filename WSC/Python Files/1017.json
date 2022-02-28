@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1017",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmedL88P1kbsQKztm7JfKjLaFP64R8L7WpnG9Wik1tfTPW",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmedL88P1kbsQKztm7JfKjLaFP64R8L7WpnG9Wik1tfTPW",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Barbed Wire"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Rainbow Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Aviators Cyborg"
+        }
+    ]
+}

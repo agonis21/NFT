@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2364",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVJvXaYhAfhvGbqcntXsGeV8GFTMvix66KPxD9BT9DNpd",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVJvXaYhAfhvGbqcntXsGeV8GFTMvix66KPxD9BT9DNpd",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cookies N Cream Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Frazzled Bleached"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        }
+    ]
+}

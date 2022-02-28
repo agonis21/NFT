@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1916",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYAynK4bVYBnjk6DZo52FQ4EjndPopL6ddgAxsWg4mDS5",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYAynK4bVYBnjk6DZo52FQ4EjndPopL6ddgAxsWg4mDS5",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Bowie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fast Food Cap"
+        }
+    ]
+}

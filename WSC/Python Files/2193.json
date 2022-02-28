@@ -1,0 +1,48 @@
+{
+    "name": "Chad #2193",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmd5ZaUrzGfyL755mBAcVbu23VmvCXspbe4XATkkS5ermU",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmd5ZaUrzGfyL755mBAcVbu23VmvCXspbe4XATkkS5ermU",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Verdi Beard"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Blonde"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver Ring"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Golden Halo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR Headset"
+        }
+    ]
+}

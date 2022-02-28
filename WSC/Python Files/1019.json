@@ -1,0 +1,44 @@
+{
+    "name": "Chad #1019",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdYsRaKCmguHEJVgoWRkLXfG5o9wt6v9RxzCjbtTprSAQ",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdYsRaKCmguHEJVgoWRkLXfG5o9wt6v9RxzCjbtTprSAQ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Double Helix"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ushanka"
+        }
+    ]
+}

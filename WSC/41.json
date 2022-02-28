@@ -1,0 +1,36 @@
+{
+    "name": "Chad #41",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWFXgnUuNGKgj9VogB3EjsPn1b2yPWd4Vjvvzy4cQ6W86",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWFXgnUuNGKgj9VogB3EjsPn1b2yPWd4Vjvvzy4cQ6W86",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Saudi Prince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Marlboro Red"
+        }
+    ]
+}

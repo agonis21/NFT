@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2663",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZ8ZgXLTMK8qkUUrarb8rHvfsS3GD6aiT3TLBCS6TaXyu",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZ8ZgXLTMK8qkUUrarb8rHvfsS3GD6aiT3TLBCS6TaXyu",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cookies N Cream Suit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The Gambler"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Marlboro Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Oil Tycoon"
+        }
+    ]
+}

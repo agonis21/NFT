@@ -1,0 +1,36 @@
+{
+    "name": "Chad #3246",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbUEJVhoq4e5PBVJE5hd28DKQHJdxcwX615QtLvosDexS",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbUEJVhoq4e5PBVJE5hd28DKQHJdxcwX615QtLvosDexS",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "This Guy F*cks Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Surfer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "AR Glasses"
+        }
+    ]
+}

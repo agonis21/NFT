@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1504",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUzVeg4N7Fy4C2it6DT7PopDjau7tDXs7cTmWiNwDF1iA",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUzVeg4N7Fy4C2it6DT7PopDjau7tDXs7cTmWiNwDF1iA",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Balaklava"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

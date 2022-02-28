@@ -1,0 +1,36 @@
+{
+    "name": "Chad #819",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbGJRS7VFo5JqSNbtVr817iquHu18UDC5fcemuoy8rNBM",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbGJRS7VFo5JqSNbtVr817iquHu18UDC5fcemuoy8rNBM",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Gym"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Red Hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Founder Life"
+        }
+    ]
+}

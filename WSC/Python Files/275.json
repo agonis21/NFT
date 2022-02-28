@@ -1,0 +1,40 @@
+{
+    "name": "Chad #275",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVJUuZ76DcXsPGwDcsm6nRtA4j9hEgAUq4FxZqPMqJjvE",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVJUuZ76DcXsPGwDcsm6nRtA4j9hEgAUq4FxZqPMqJjvE",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Frazzled Bleached"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The Gambler"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        }
+    ]
+}

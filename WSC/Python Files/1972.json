@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1972",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWwSopg2XpxUExqkygbiZu8yGmDTMjNzn7vE1ByHCdx6F",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWwSopg2XpxUExqkygbiZu8yGmDTMjNzn7vE1ByHCdx6F",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "BTFD T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Mullet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Oval White Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

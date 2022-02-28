@@ -1,0 +1,44 @@
+{
+    "name": "Chad #1659",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbMBSQd9LbuKiPACTxdCY8X2kDFy156i8weUTyxfZg3ZZ",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbMBSQd9LbuKiPACTxdCY8X2kDFy156i8weUTyxfZg3ZZ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turtleneck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Helix Set"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Villain Monocle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

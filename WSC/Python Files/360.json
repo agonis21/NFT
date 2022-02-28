@@ -1,0 +1,40 @@
+{
+    "name": "Chad #360",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmej9FtQE9swMD4Ncxn6vUhA388p4Wjs47ny5RgyGDeqAH",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmej9FtQE9swMD4Ncxn6vUhA388p4Wjs47ny5RgyGDeqAH",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud & Cross"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Marlboro Red"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Chad #409",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXNwzoaEhGXn4rzK6ASBprSqpaAsxd9nc9PNZCCatmaLm",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmXNwzoaEhGXn4rzK6ASBprSqpaAsxd9nc9PNZCCatmaLm",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Puffer Vest"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Astronaut Helmet"
+        }
+    ]
+}

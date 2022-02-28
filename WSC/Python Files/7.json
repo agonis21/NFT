@@ -1,0 +1,36 @@
+{
+    "name": "Chad #7",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdQk6YeBZLswZPqBN2cqsYz4vhE9A33mCugJRw9ht1Kbz",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdQk6YeBZLswZPqBN2cqsYz4vhE9A33mCugJRw9ht1Kbz",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Shark Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Aviators Cyborg"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Helicopter Cap"
+        }
+    ]
+}

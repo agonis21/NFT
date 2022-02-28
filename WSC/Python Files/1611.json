@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1611",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb2eLVMhpr4KMjYGqG5FK8JLE6Z3UkZxrnJfX5k9ytEXK",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmb2eLVMhpr4KMjYGqG5FK8JLE6Z3UkZxrnJfX5k9ytEXK",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Jeans Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Robin Hood Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Aviators Cyborg"
+        }
+    ]
+}

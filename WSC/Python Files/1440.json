@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1440",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQeaKyHGG7D4k77JwjLLLWdn3kRC6SPfqHQyU37eDioL6",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQeaKyHGG7D4k77JwjLLLWdn3kRC6SPfqHQyU37eDioL6",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        }
+    ]
+}

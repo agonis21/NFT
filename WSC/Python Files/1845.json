@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1845",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXUcRoUkU3sWhXCS9Q8W1RK5GaRmWjTQz82E1FWpMmTay",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmXUcRoUkU3sWhXCS9Q8W1RK5GaRmWjTQz82E1FWpMmTay",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

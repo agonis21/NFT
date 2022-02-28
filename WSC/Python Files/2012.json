@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2012",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmepFj5LNPQntzRpPv1f8u82jo5uMjGoPYm3VPKfwXJmWv",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmepFj5LNPQntzRpPv1f8u82jo5uMjGoPYm3VPKfwXJmWv",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "This Guy F*cks Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Red Hair"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        }
+    ]
+}

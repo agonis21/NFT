@@ -1,0 +1,36 @@
+{
+    "name": "Chad #146",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYpzfMfR1GHZsd5Rii6zV4x7rGkZbo2uJ8NCSTVfStRRw",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYpzfMfR1GHZsd5Rii6zV4x7rGkZbo2uJ8NCSTVfStRRw",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "This Guy F*cks Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Founder Life"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Oil Tycoon"
+        }
+    ]
+}

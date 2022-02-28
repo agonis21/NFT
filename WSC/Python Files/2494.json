@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2494",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRfbvD6u4sswTgfwzcTChSc1mycaFn4eKgFNvJzFDJjnB",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRfbvD6u4sswTgfwzcTChSc1mycaFn4eKgFNvJzFDJjnB",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

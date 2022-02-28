@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2137",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNhRKvA5QNhKFTZGzmswbkh5eSzDLvA975XCVYMyoMxnA",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNhRKvA5QNhKFTZGzmswbkh5eSzDLvA975XCVYMyoMxnA",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lehman Siblings T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver Ring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

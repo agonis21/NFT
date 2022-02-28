@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2478",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmX27KrX6oNDKK1E3imuUkiZ87AA3adZmuUeC6QPpdeRVP",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmX27KrX6oNDKK1E3imuUkiZ87AA3adZmuUeC6QPpdeRVP",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lehman Siblings T"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Double Helix"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fast Food Cap"
+        }
+    ]
+}

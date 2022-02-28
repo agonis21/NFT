@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1913",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmY9fzwZqX6wYUzuYoC2R63SdgcwiqPF1jjuYFQjwZW1Ce",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmY9fzwZqX6wYUzuYoC2R63SdgcwiqPF1jjuYFQjwZW1Ce",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blood-stained T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rainbow Grillz"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fast Food Cap"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #413",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZYoowSWJbcNE67TNy5wB9y6gtxth6SL39FGHHWmsaw2D",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZYoowSWJbcNE67TNy5wB9y6gtxth6SL39FGHHWmsaw2D",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Tear Drop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Papal Regalia"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyborg"
+        }
+    ]
+}

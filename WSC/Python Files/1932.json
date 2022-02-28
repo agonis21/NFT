@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1932",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcVwdxQZPgYfZ6NBBSDNEuLiHL7u1PEcC9yJVuKpm3uTL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcVwdxQZPgYfZ6NBBSDNEuLiHL7u1PEcC9yJVuKpm3uTL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Tear Drop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Surfer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "AR Glasses"
+        }
+    ]
+}

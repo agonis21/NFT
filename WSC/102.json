@@ -1,0 +1,36 @@
+{
+    "name": "Chad #102",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbkPB9omtQ1reUYYrmC2jtQYuCRoSZJKAjH7qWEegSNoV",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbkPB9omtQ1reUYYrmC2jtQYuCRoSZJKAjH7qWEegSNoV",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "XXL Black T"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Founder Life"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sombrero"
+        }
+    ]
+}

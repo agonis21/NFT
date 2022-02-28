@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1096",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSEccEjcfCmgsD2TakDTz6Et81VhVNkpix9h42RsGG3bf",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmSEccEjcfCmgsD2TakDTz6Et81VhVNkpix9h42RsGG3bf",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Astronaut"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Founder Life"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Robin Hood Hat"
+        }
+    ]
+}

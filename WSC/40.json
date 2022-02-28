@@ -1,0 +1,44 @@
+{
+    "name": "Chad #40",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYEUsxG371tqieS7gAo1ti7Zb5Cv3qzk5V8YPY6n8z6SE",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYEUsxG371tqieS7gAo1ti7Zb5Cv3qzk5V8YPY6n8z6SE",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Rekt"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turtleneck"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Double Helix"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ushanka"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

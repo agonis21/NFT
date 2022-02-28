@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2094",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmV8zESLz72wR1JLbJGT4bmxinvgui1D5fBtJ7XP6AFLUj",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmV8zESLz72wR1JLbJGT4bmxinvgui1D5fBtJ7XP6AFLUj",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ape Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gamer Headset"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #482",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNX2we5cyAM4URDPK6kWspRFZVpcZW99ptaJtUfEQosFi",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNX2we5cyAM4URDPK6kWspRFZVpcZW99ptaJtUfEQosFi",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Mullet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        }
+    ]
+}

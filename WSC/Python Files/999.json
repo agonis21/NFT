@@ -1,0 +1,32 @@
+{
+    "name": "Chad #999",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPiixtsAgcwEWY6b7F3e4cAAynNrHQawbYSUbdaAf3kfp",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPiixtsAgcwEWY6b7F3e4cAAynNrHQawbYSUbdaAf3kfp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Varsity Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ninja Mask"
+        }
+    ]
+}

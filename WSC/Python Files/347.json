@@ -1,0 +1,36 @@
+{
+    "name": "Chad #347",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYqm1fBAHq3LnPfBFBs5bxkiVQNjhYDjcwULgBP9P6nUV",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYqm1fBAHq3LnPfBFBs5bxkiVQNjhYDjcwULgBP9P6nUV",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Jeans Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

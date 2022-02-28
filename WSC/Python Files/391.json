@@ -1,0 +1,44 @@
+{
+    "name": "Chad #391",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSBJSeZ8ShntwqA5xP1LCyYcrhTM5Sf6TDGDh2qwnsiNr",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmSBJSeZ8ShntwqA5xP1LCyYcrhTM5Sf6TDGDh2qwnsiNr",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Barbed Wire"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Friday Night Blazer"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Top Knot"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Helix Set"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2808",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUSaE9XJ5fMdv7LWj4QUcBNRokZre8gxJ2HLkB2WKiR62",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUSaE9XJ5fMdv7LWj4QUcBNRokZre8gxJ2HLkB2WKiR62",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "AR Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #45",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUpiuzfrED6qX7uZATBrrZFBfjUnQiUHXGhkDoPK7Wnhs",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUpiuzfrED6qX7uZATBrrZFBfjUnQiUHXGhkDoPK7Wnhs",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Chad #1157",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRhdMhZ9kq73nkRMt8Q5na6aFKSweKwXgBAGpRG67mu98",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRhdMhZ9kq73nkRMt8Q5na6aFKSweKwXgBAGpRG67mu98",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "VC Fleece"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Blonde"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Diamond Stud & Cross"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        }
+    ]
+}

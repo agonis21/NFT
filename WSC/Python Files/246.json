@@ -1,0 +1,36 @@
+{
+    "name": "Chad #246",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRg7n1za6qXnAfAUPhpV9hezP8Wc9aGrpHabh4QtBTYEs",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRg7n1za6qXnAfAUPhpV9hezP8Wc9aGrpHabh4QtBTYEs",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Psycho Rain Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Blonde"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Swimmies"
+        }
+    ]
+}

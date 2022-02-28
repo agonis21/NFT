@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2020",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfTyxYmM1j9AHb25JWNBx8kw6ZGniqEwXBERqnxushZjo",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmfTyxYmM1j9AHb25JWNBx8kw6ZGniqEwXBERqnxushZjo",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "GME T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Mullet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "AR Glasses"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Chad #1529",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQFnFqBzVv3RbNdD65Mp1MFVS55KfKNbCeCygHzZmnvpj",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQFnFqBzVv3RbNdD65Mp1MFVS55KfKNbCeCygHzZmnvpj",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Wen Moon T"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Astronaut Helmet"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #438",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdxgU4CyTBde5jFiJfLUseRFqnx7g654n9xCgbVfx4mr9",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmdxgU4CyTBde5jFiJfLUseRFqnx7g654n9xCgbVfx4mr9",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ouch!"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Doge Hat"
+        }
+    ]
+}

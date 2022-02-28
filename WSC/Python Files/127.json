@@ -1,0 +1,44 @@
+{
+    "name": "Chad #127",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfMN9BHVFV6RNw4peW1cHNLg2U5bQyADn33VQsBnjcRKs",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmfMN9BHVFV6RNw4peW1cHNLg2U5bQyADn33VQsBnjcRKs",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Helix Set"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "BlackBerry Cap"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

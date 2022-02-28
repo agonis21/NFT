@@ -1,0 +1,36 @@
+{
+    "name": "Chad #449",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmW6Qv1oFSfKsBVRVL7rGEo22PoLgj1ZAvhuGtJFBVvWzM",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmW6Qv1oFSfKsBVRVL7rGEo22PoLgj1ZAvhuGtJFBVvWzM",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Shark Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ushanka"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "AR Glasses"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #285",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcLJmBqH73ZLzzMMXT2zGEhhyKcbZCDBKtcsyak3ERZX8",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcLJmBqH73ZLzzMMXT2zGEhhyKcbZCDBKtcsyak3ERZX8",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Puffer Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Robin Hood Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR Headset"
+        }
+    ]
+}

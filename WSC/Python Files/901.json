@@ -1,0 +1,36 @@
+{
+    "name": "Chad #901",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVWjDUHsJmnbWmSZ3rbzQf5aiPnqAL3Htvz8kTyCQgVDA",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVWjDUHsJmnbWmSZ3rbzQf5aiPnqAL3Htvz8kTyCQgVDA",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Emperor Gown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Oval White Glasses"
+        }
+    ]
+}

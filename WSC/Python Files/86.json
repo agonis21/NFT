@@ -1,0 +1,40 @@
+{
+    "name": "Chad #86",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYAaxNTotGEJAFphpmYzm9sVipuqU87jRjz5KcMJGwtPX",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYAaxNTotGEJAFphpmYzm9sVipuqU87jRjz5KcMJGwtPX",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ouch!"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud & Cross"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ushanka"
+        }
+    ]
+}

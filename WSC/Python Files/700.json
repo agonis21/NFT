@@ -1,0 +1,40 @@
+{
+    "name": "Chad #700",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmeehkCyAj4Jr6pc6V4YuJq85k6QMrodQLbhAdPo9y58wd",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmeehkCyAj4Jr6pc6V4YuJq85k6QMrodQLbhAdPo9y58wd",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Jeans Jacket"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "AR Glasses"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        }
+    ]
+}

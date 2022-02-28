@@ -1,0 +1,36 @@
+{
+    "name": "Chad #22",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWywX84MJ6mGhJrCCLP48B8REHFs1DhLxwKBwP4xo5nsv",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWywX84MJ6mGhJrCCLP48B8REHFs1DhLxwKBwP4xo5nsv",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Shark Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Oil Tycoon"
+        }
+    ]
+}

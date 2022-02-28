@@ -1,0 +1,36 @@
+{
+    "name": "Chad #435",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXbKwxQZgtXJcoJ1K1tybqNyz9sxLr65xw6g5HwWgP4YW",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmXbKwxQZgtXJcoJ1K1tybqNyz9sxLr65xw6g5HwWgP4YW",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Friday Night Blazer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gamer Headset"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

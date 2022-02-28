@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2004",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmecUW5i98e5HMx8uKMxc8RYCQMA5Lg6ojonsjjhzLzoR2",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmecUW5i98e5HMx8uKMxc8RYCQMA5Lg6ojonsjjhzLzoR2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rambo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        }
+    ]
+}

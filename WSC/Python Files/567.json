@@ -1,0 +1,36 @@
+{
+    "name": "Chad #567",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVZ8a5PdrUvgbaSeuUtZx1BTnBkvyXsbRKoYCHDfZ72j9",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVZ8a5PdrUvgbaSeuUtZx1BTnBkvyXsbRKoYCHDfZ72j9",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lehman Siblings T"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Oil Tycoon"
+        }
+    ]
+}

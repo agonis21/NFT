@@ -1,0 +1,36 @@
+{
+    "name": "Chad #142",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSkExh6KxG96bahAuA9jPZ1Cc5eB5ixxBLv3e9vsLrkeH",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmSkExh6KxG96bahAuA9jPZ1Cc5eB5ixxBLv3e9vsLrkeH",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yakuza"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fast Food Cap"
+        }
+    ]
+}

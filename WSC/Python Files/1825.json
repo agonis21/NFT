@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1825",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcHHQm46Y24JTtfTCmCEg8STiJypoSj5SgTh18LRbxPHA",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcHHQm46Y24JTtfTCmCEg8STiJypoSj5SgTh18LRbxPHA",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Disco Suit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Founder Life"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Chad #998",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPfWd67FL8NBQKQ42F8hdPXHES4iZtdgt6Kuh1VgJP2ZX",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPfWd67FL8NBQKQ42F8hdPXHES4iZtdgt6Kuh1VgJP2ZX",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Bowie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Playful Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Paint Mask"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver Ring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "King's Crown"
+        }
+    ]
+}

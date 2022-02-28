@@ -1,0 +1,36 @@
+{
+    "name": "Chad #378",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNnWVnW5zYgEMgaGFF2ronBVnj2scffrvsmVsSUCh4MF4",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNnWVnW5zYgEMgaGFF2ronBVnj2scffrvsmVsSUCh4MF4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Gym"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #164",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWs4nJVYbd4cvjx2Dr2Rzeb3qaEa1D1WuczYvQDd6Qv6H",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWs4nJVYbd4cvjx2Dr2Rzeb3qaEa1D1WuczYvQDd6Qv6H",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

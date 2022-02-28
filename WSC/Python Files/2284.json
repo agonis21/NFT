@@ -1,0 +1,44 @@
+{
+    "name": "Chad #2284",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQbQiTQW6TJ4aByLgSCyQT8Jm9r4AsKbwAd6VKDHHPP7E",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQbQiTQW6TJ4aByLgSCyQT8Jm9r4AsKbwAd6VKDHHPP7E",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Analyst Blazer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Diamond Stud & Cross"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sombrero"
+        }
+    ]
+}

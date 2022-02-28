@@ -1,0 +1,36 @@
+{
+    "name": "Chad #203",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmavGAsY7w5TA7iqEi2R4gxAjjdQ2iiyJSw4ebquFDe4QW",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmavGAsY7w5TA7iqEi2R4gxAjjdQ2iiyJSw4ebquFDe4QW",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Saudi Prince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

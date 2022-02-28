@@ -1,0 +1,36 @@
+{
+    "name": "Chad #460",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS8yf9QvSQZxkZnjJj3NhpBJKA7Xvnx1EuPosQ6kBNYwL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmS8yf9QvSQZxkZnjJj3NhpBJKA7Xvnx1EuPosQ6kBNYwL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        }
+    ]
+}

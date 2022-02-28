@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1037",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUsc4az7qpq2LKLWQwAtEXe9K7mqtnuab3i3ZoR1CaJJV",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUsc4az7qpq2LKLWQwAtEXe9K7mqtnuab3i3ZoR1CaJJV",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rambo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gamer Headset"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #300",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQUE9Q8RtfTdVbdfD813tHCj4wcHEFhCLmEF3kiqbGT4K",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQUE9Q8RtfTdVbdfD813tHCj4wcHEFhCLmEF3kiqbGT4K",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Tuxedo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Glasses"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2273",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ7yd3kfJtHUXZiUDZCsdmD7srBBMbXUxcQ9rV1gq6dDz",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQ7yd3kfJtHUXZiUDZCsdmD7srBBMbXUxcQ9rV1gq6dDz",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Friday Night Blazer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rainbow Grillz"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        }
+    ]
+}

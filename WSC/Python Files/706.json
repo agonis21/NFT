@@ -1,0 +1,40 @@
+{
+    "name": "Chad #706",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRsqBNzibL12oJQQkfiMxRhNL7mM6GKeHLJzEwCrbm4G2",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRsqBNzibL12oJQQkfiMxRhNL7mM6GKeHLJzEwCrbm4G2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Fro"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Double Helix"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fear & Loathing"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #2276",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmeMfHWmQ95aL6bq1L6eVSRFuh6R35c8togvDT5CpwRatM",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmeMfHWmQ95aL6bq1L6eVSRFuh6R35c8togvDT5CpwRatM",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "BTFD T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #108",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSEcJX1wFGML6wfeLVuY4nVNZBCQzSe6sonss4zWKJm6f",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmSEcJX1wFGML6wfeLVuY4nVNZBCQzSe6sonss4zWKJm6f",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Psycho Rain Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Beer Goggles"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Chad #899",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmP5jsJJcUmzp9FgJ5m9tZL17mFFr7eYiak1qFfH1K4pTT",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmP5jsJJcUmzp9FgJ5m9tZL17mFFr7eYiak1qFfH1K4pTT",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blood-stained T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "King's Crown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Accountant Rims"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

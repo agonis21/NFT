@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1101",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVVisvJ116TvZ2ieWF8f9edMP7q2WUkgwPXdpZz16djvV",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVVisvJ116TvZ2ieWF8f9edMP7q2WUkgwPXdpZz16djvV",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blood-stained T"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fear & Loathing"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "WSC Cap"
+        }
+    ]
+}

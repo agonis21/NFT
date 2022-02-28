@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2006",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVvPrQbJzjZD8VZRdMHE6AU9S8KAN9UwDUTQh5snjrdSk",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVvPrQbJzjZD8VZRdMHE6AU9S8KAN9UwDUTQh5snjrdSk",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Playful Shirt"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Marlboro Red"
+        }
+    ]
+}

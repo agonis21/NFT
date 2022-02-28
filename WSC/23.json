@@ -1,0 +1,36 @@
+{
+    "name": "Chad #23",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVTdTRTgVTVZKQ9LNRr3Yobs7JTTh2wq8FgbLw1FcKuQL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVTdTRTgVTVZKQ9LNRr3Yobs7JTTh2wq8FgbLw1FcKuQL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "VC Fleece"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyborg"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #645",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmbk4xTM7v5JV2N7kZRQqsiaWuHwFZbHb8LZx7wVCXGgAt",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmbk4xTM7v5JV2N7kZRQqsiaWuHwFZbHb8LZx7wVCXGgAt",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Tuxedo"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

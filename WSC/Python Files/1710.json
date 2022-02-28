@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1710",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT4AGqNv3zPXqXsJN94VhBgwp12ZdTpWzdZUcoGAdEYNp",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmT4AGqNv3zPXqXsJN94VhBgwp12ZdTpWzdZUcoGAdEYNp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Exec Suit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Janet Y."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Villain Monocle"
+        },
+        {
+            "trait_type": "Mouth Accessory",
+            "value": "Chad Mask"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        }
+    ]
+}

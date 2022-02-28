@@ -1,0 +1,36 @@
+{
+    "name": "Chad #36",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmU55Ua2BfErznR4QGmfcbNVjcuFhcnXM7Rjwag6qioduG",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmU55Ua2BfErznR4QGmfcbNVjcuFhcnXM7Rjwag6qioduG",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "GME T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        }
+    ]
+}

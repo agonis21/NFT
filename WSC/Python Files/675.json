@@ -1,0 +1,36 @@
+{
+    "name": "Chad #675",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZjWCeWUiarrUUscu11Bc3jnomaRACuLJT8oTctB7pHQU",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZjWCeWUiarrUUscu11Bc3jnomaRACuLJT8oTctB7pHQU",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        }
+    ]
+}

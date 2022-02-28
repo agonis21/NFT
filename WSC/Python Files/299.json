@@ -1,0 +1,36 @@
+{
+    "name": "Chad #299",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRWsotBKDkHJ1LJys8bVUZSJX2qCZgS3NDgwQu9dSYa1d",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRWsotBKDkHJ1LJys8bVUZSJX2qCZgS3NDgwQu9dSYa1d",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Psycho Rain Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Beer Goggles"
+        }
+    ]
+}

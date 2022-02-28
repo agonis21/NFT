@@ -1,0 +1,36 @@
+{
+    "name": "Chad #756",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQifNAXgVQnWWFxo2BkDiXpcGZ6NrzJ855VyvvKWT9BfN",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQifNAXgVQnWWFxo2BkDiXpcGZ6NrzJ855VyvvKWT9BfN",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Frazzled Bleached"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        }
+    ]
+}

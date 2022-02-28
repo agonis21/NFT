@@ -1,0 +1,36 @@
+{
+    "name": "Chad #279",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmadknFhMZ6VnPcuFJmYt8wyfM4KxRBDVHxVKi7wxS2nsR",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmadknFhMZ6VnPcuFJmYt8wyfM4KxRBDVHxVKi7wxS2nsR",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

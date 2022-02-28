@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2884",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfVJFr5sH7jhkEjJxSNeywoj8pDzLMbhweHkij5uo99Cc",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmfVJFr5sH7jhkEjJxSNeywoj8pDzLMbhweHkij5uo99Cc",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Varsity Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The Gambler"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #859",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZK869YRo6MUcxsqhuuLSsGpyudqKhSB79TCYtS4fJxP9",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZK869YRo6MUcxsqhuuLSsGpyudqKhSB79TCYtS4fJxP9",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Paper Hands"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Slicked Back"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        }
+    ]
+}

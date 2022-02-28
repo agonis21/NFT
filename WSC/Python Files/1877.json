@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1877",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbQpYu7y8JtcAkg8Bwdj7FA8bTeK4FjJEbc5LyCwAARo5",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbQpYu7y8JtcAkg8Bwdj7FA8bTeK4FjJEbc5LyCwAARo5",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hawaiian Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

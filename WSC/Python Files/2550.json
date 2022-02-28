@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2550",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUQ9tfEkRUV37qfyJ4GVxhPoPixTQm4v7L1hEtWyz85gE",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUQ9tfEkRUV37qfyJ4GVxhPoPixTQm4v7L1hEtWyz85gE",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Jeans Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lil Chaddy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Accountant Rims"
+        }
+    ]
+}

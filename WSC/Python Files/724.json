@@ -1,0 +1,44 @@
+{
+    "name": "Chad #724",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQyxVRycLcfRwxNjsc4HUExNQSNjhf5JcsK6qzNKCngHw",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQyxVRycLcfRwxNjsc4HUExNQSNjhf5JcsK6qzNKCngHw",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Varsity Jacket"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Wise Grey Beard"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Murica"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gold Laurel Wreath"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bezos Glasses"
+        }
+    ]
+}

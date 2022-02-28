@@ -1,0 +1,36 @@
+{
+    "name": "Chad #112",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb8WoPQU513UeWBCkfdGrQRx8E4TMZ6WGqhfAETEQ2gwP",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmb8WoPQU513UeWBCkfdGrQRx8E4TMZ6WGqhfAETEQ2gwP",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

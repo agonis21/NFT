@@ -1,0 +1,36 @@
+{
+    "name": "Chad #400",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfZSdAWSV2E9F4LEgekQTVGZYR7VFrZbU7G19dftk8VpW",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmfZSdAWSV2E9F4LEgekQTVGZYR7VFrZbU7G19dftk8VpW",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "XXL Black T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "BlackBerry Cap"
+        }
+    ]
+}

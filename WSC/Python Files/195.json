@@ -1,0 +1,36 @@
+{
+    "name": "Chad #195",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTaNEE7hHbHCe4oz68J3AYYihMifjaqdsVYjzhSYZggRt",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTaNEE7hHbHCe4oz68J3AYYihMifjaqdsVYjzhSYZggRt",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "This Guy F*cks Suit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

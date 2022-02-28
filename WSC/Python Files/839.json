@@ -1,0 +1,36 @@
+{
+    "name": "Chad #839",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZy48XiyAQv6JRxZ9kes7rVafpj4sKeXnUvcuqDK7bpFg",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZy48XiyAQv6JRxZ9kes7rVafpj4sKeXnUvcuqDK7bpFg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Much Wow T"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Oval White Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

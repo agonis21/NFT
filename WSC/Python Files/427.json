@@ -1,0 +1,36 @@
+{
+    "name": "Chad #427",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTjHjq8qpy8byCEGt4Kyp5RVhLAkdog4jpnGJ4EE5SitW",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTjHjq8qpy8byCEGt4Kyp5RVhLAkdog4jpnGJ4EE5SitW",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Beer Goggles"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

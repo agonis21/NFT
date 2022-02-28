@@ -1,0 +1,40 @@
+{
+    "name": "Chad #1919",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQH3NKuDxM3NFV7ZR4NDSKzuQ4fqEqjjeyRYnfx1Y9bF8",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQH3NKuDxM3NFV7ZR4NDSKzuQ4fqEqjjeyRYnfx1Y9bF8",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Rekt"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Top Knot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        }
+    ]
+}

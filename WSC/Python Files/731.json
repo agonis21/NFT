@@ -1,0 +1,36 @@
+{
+    "name": "Chad #731",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQJ1xM9dJiUnpYdteVAGbv6tY4SEY4Fcb1EJ7rp3a2HAa",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQJ1xM9dJiUnpYdteVAGbv6tY4SEY4Fcb1EJ7rp3a2HAa",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Oil Tycoon"
+        }
+    ]
+}

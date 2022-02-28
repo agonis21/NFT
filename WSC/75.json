@@ -1,0 +1,36 @@
+{
+    "name": "Chad #75",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVZ5Yp7aEE3jgdnvUTJHEUQSrAUjLH6fAkNcvhrADjVsu",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmVZ5Yp7aEE3jgdnvUTJHEUQSrAUjLH6fAkNcvhrADjVsu",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Mink Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        }
+    ]
+}

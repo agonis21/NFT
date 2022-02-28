@@ -1,0 +1,28 @@
+{
+    "name": "Chad #115",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmcqzf2rC44iRd895dNfwo3QyifRxbysMvhJJDTTkkWAda",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmcqzf2rC44iRd895dNfwo3QyifRxbysMvhJJDTTkkWAda",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Psycho Rain Coat"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gorilla"
+        }
+    ]
+}

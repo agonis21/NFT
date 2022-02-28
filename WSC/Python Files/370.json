@@ -1,0 +1,36 @@
+{
+    "name": "Chad #370",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcbEsT9HuUEewQu3KwmXTfzxuavhTW54bVic5CrQnyuPg",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcbEsT9HuUEewQu3KwmXTfzxuavhTW54bVic5CrQnyuPg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Tuxedo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Oil Tycoon"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #35",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmag2gLWLWSaWcPAWvpX1eraf9uFNkxtoJErC7FYtVBQUL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qmag2gLWLWSaWcPAWvpX1eraf9uFNkxtoJErC7FYtVBQUL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "BTFD T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Top Knot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        }
+    ]
+}

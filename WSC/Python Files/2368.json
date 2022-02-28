@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2368",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZorB1LYmKY1eaw6MFAPz67YvdpxotkZ6BrAaRiiMH41B",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZorB1LYmKY1eaw6MFAPz67YvdpxotkZ6BrAaRiiMH41B",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cookies N Cream Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Keith G."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Villain Monocle"
+        }
+    ]
+}

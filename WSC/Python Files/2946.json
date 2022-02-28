@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2946",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmeU1zpysu5P2dfCE12X76nzL3MJBMcuwwkQtr8s6qQi1A",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmeU1zpysu5P2dfCE12X76nzL3MJBMcuwwkQtr8s6qQi1A",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Jeans Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Glasses"
+        }
+    ]
+}

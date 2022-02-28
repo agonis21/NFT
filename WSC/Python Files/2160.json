@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2160",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUH9q98qzM2VfyygbhazL9Vcz177ZbF7UMXKhZjZJ4xWw",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUH9q98qzM2VfyygbhazL9Vcz177ZbF7UMXKhZjZJ4xWw",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Gym"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fear & Loathing"
+        }
+    ]
+}

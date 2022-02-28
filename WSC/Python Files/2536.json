@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2536",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmX1ni6yFaX6F4MwM5SduwBxJjUFRkFJA2CfJPRk6cDqEw",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmX1ni6yFaX6F4MwM5SduwBxJjUFRkFJA2CfJPRk6cDqEw",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Paint Mask"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Balding"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        }
+    ]
+}

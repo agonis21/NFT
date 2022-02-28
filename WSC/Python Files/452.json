@@ -1,0 +1,36 @@
+{
+    "name": "Chad #452",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYL6YPdN3zYUDCuGVmoqVtbHuYUT7dYN2PTdNCQoEig9E",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYL6YPdN3zYUDCuGVmoqVtbHuYUT7dYN2PTdNCQoEig9E",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Balaklava"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        }
+    ]
+}

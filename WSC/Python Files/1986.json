@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1986",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT9mj9W2w5fE7wJvf435zBKgirZQoVKYF9kzsHvqspKrg",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmT9mj9W2w5fE7wJvf435zBKgirZQoVKYF9kzsHvqspKrg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Varsity Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        }
+    ]
+}

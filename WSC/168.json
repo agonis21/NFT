@@ -1,0 +1,36 @@
+{
+    "name": "Chad #168",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbZ6jMoU6M15BNADW6ua13vbBML3XaGPKZC8ijrPANQgn",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbZ6jMoU6M15BNADW6ua13vbBML3XaGPKZC8ijrPANQgn",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "This Guy F*cks Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Born To Ape Helmet"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        }
+    ]
+}

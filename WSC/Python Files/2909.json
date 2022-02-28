@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2909",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbvFE2ZbCdwTAWpsepxsweVJqoYAVmzjgDqpnTaR6XBFJ",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmbvFE2ZbCdwTAWpsepxsweVJqoYAVmzjgDqpnTaR6XBFJ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hipster Beanie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        }
+    ]
+}

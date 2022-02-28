@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1080",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qma32ucKTLKWN1UWjLKTTuGBsgb5fmewv8qV3bkoixbT73",
+    "external_url": "https://gateway.pinata.cloud/ipfs/Qma32ucKTLKWN1UWjLKTTuGBsgb5fmewv8qV3bkoixbT73",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Ape Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Janet Y."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Glasses"
+        }
+    ]
+}

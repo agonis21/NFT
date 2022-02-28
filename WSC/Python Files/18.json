@@ -1,0 +1,36 @@
+{
+    "name": "Chad #18",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZTJtFXSDSc66CaX7dU9x3rqpjUCFJ8YUyNmnEHSJW9AS",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZTJtFXSDSc66CaX7dU9x3rqpjUCFJ8YUyNmnEHSJW9AS",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dapper Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lil Chaddy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR Headset"
+        }
+    ]
+}

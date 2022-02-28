@@ -1,0 +1,36 @@
+{
+    "name": "Chad #8",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWNBVG9bU8s73yrLUzJisgsjAzkkJsnDYruTT12nvTtBF",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWNBVG9bU8s73yrLUzJisgsjAzkkJsnDYruTT12nvTtBF",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Game Over T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Accountant Rims"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fast Food Cap"
+        }
+    ]
+}

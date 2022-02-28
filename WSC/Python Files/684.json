@@ -1,0 +1,36 @@
+{
+    "name": "Chad #684",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZcdZ5aGYVozgsHugsGmZxkX2ecF2XjXy8a5df5KqK5rL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZcdZ5aGYVozgsHugsGmZxkX2ecF2XjXy8a5df5KqK5rL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange Sherbet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Paper Hands"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Frazzled Bleached"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bezos Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

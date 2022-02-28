@@ -1,0 +1,36 @@
+{
+    "name": "Chad #190",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYp6nAA7pqDPHha2S1nbUnUuqF5k6UFKwcnEZCbiS8Qt4",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYp6nAA7pqDPHha2S1nbUnUuqF5k6UFKwcnEZCbiS8Qt4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

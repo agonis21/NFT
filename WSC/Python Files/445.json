@@ -1,0 +1,36 @@
+{
+    "name": "Chad #445",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYNTxLeB6qg28pzhAhA9PtrvtBLZo9PQiA7X9DyN7pdoE",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYNTxLeB6qg28pzhAhA9PtrvtBLZo9PQiA7X9DyN7pdoE",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Italian"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Golf Polo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Fro"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        }
+    ]
+}

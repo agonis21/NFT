@@ -1,0 +1,36 @@
+{
+    "name": "Chad #363",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTeb6mkncujBuUBJ1TQeMNjbdPWGE4M6fiN3qQgE3zRHd",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTeb6mkncujBuUBJ1TQeMNjbdPWGE4M6fiN3qQgE3zRHd",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Red T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Top Knot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #202",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRsZuDK5195Ax8XpvHjkzTainCU7CzQ9p5x93jXRdqA1C",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRsZuDK5195Ax8XpvHjkzTainCU7CzQ9p5x93jXRdqA1C",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

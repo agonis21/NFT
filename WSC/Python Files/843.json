@@ -1,0 +1,36 @@
+{
+    "name": "Chad #843",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPqAVtcHHWEi87dyet9f1aTuWoVyJ9u64eJvfVQkzcowE",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPqAVtcHHWEi87dyet9f1aTuWoVyJ9u64eJvfVQkzcowE",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Punk Mohawk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        }
+    ]
+}

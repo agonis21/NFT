@@ -1,0 +1,32 @@
+{
+    "name": "Chad #1934",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNZAqgBPRsdHGhJ6CmZfx6ti2Vx7RF9XV42NSyFgqoKN6",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNZAqgBPRsdHGhJ6CmZfx6ti2Vx7RF9XV42NSyFgqoKN6",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Mustard Polo"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ninja Mask"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #173",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYhD26mQWniokxsoxbR3tbHzMyDK5MtX41PYkWsw6J1LU",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYhD26mQWniokxsoxbR3tbHzMyDK5MtX41PYkWsw6J1LU",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Top Knot"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black Wayfarer"
+        }
+    ]
+}

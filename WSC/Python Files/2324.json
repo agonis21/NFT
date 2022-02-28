@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2324",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQkySFfEjTowmeNxSS1Y1t4iybjq7PQsa2PpBno1ZEuZL",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmQkySFfEjTowmeNxSS1Y1t4iybjq7PQsa2PpBno1ZEuZL",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dapper Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Drooling"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Punk Mohawk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #703",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcuSUqhfQARJNqAkhp8y4KPtspczbEN5SVxrirnc5NUyx",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcuSUqhfQARJNqAkhp8y4KPtspczbEN5SVxrirnc5NUyx",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Indigo"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "VC Fleece"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Janet Y."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fear & Loathing"
+        }
+    ]
+}

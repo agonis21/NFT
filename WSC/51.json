@@ -1,0 +1,36 @@
+{
+    "name": "Chad #51",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS2H9G4iGK5bVaHQdyayFxpoXPoMPBQT2Lxz7ehJYEXdC",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmS2H9G4iGK5bVaHQdyayFxpoXPoMPBQT2Lxz7ehJYEXdC",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WSC Trader"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Charming Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Blonde"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Clockwork Orange"
+        }
+    ]
+}

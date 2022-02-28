@@ -1,0 +1,36 @@
+{
+    "name": "Chad #3048",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcarQruWnk3XhXYq6uXt4Mr3XqkBJhZ4fBBwn8qtzsbAf",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmcarQruWnk3XhXYq6uXt4Mr3XqkBJhZ4fBBwn8qtzsbAf",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Acquamarine"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Tuxedo"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Lil Chaddy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Accountant Rims"
+        }
+    ]
+}

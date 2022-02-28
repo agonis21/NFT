@@ -1,0 +1,36 @@
+{
+    "name": "Chad #2507",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNnYefZW9xooPp4JL2ex6ATfJGVekEZTwPJRT45svQHzB",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNnYefZW9xooPp4JL2ex6ATfJGVekEZTwPJRT45svQHzB",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Psychedelic"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gala Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Killer Smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blasé"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

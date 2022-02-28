@@ -1,0 +1,36 @@
+{
+    "name": "Chad #3312",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT832cUynp4nDPUbxGxSY4nLtxWefyHe4heEuTH6iw4Cv",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmT832cUynp4nDPUbxGxSY4nLtxWefyHe4heEuTH6iw4Cv",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vice City Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Gold Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Psycho Smile"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Murica"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Possessed"
+        }
+    ]
+}

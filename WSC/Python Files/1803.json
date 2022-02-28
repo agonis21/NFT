@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1803",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZYzzqXJHmqqnGguPrX4Xbed1gS2NNzvW4dSpwQcts7w9",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmZYzzqXJHmqqnGguPrX4Xbed1gS2NNzvW4dSpwQcts7w9",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Baby Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Holy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blood-stained T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shocked"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "YOLO-ed life savings"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

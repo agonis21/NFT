@@ -1,0 +1,28 @@
+{
+    "name": "Chad #313",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS1y7BixTX18THRpBsqeumsB56WutB2JznDWxukZTHuPV",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmS1y7BixTX18THRpBsqeumsB56WutB2JznDWxukZTHuPV",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blood-stained T"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gorilla"
+        }
+    ]
+}

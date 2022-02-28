@@ -1,0 +1,36 @@
+{
+    "name": "Chad #205",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPw8eZ8D3aj8hTNwvtTjabdLdaQuwx5ezN8SSiECvwvfa",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPw8eZ8D3aj8hTNwvtTjabdLdaQuwx5ezN8SSiECvwvfa",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Friday Night Blazer"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

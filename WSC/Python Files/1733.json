@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1733",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXoLnSFarr5qdhqvwbUDwxniNBs7wUvVT2hA8LNDJPdMo",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmXoLnSFarr5qdhqvwbUDwxniNBs7wUvVT2hA8LNDJPdMo",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Wen Moon T"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Luscious Brown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The Gambler"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The pipe"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Chad #377",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNUkHYZfpGfxJ6rugb9ZZ2WsyLHBgVcDYGFfv7YA9VKrx",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmNUkHYZfpGfxJ6rugb9ZZ2WsyLHBgVcDYGFfv7YA9VKrx",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "WcDonalds GM"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Samurai Helmet"
+        }
+    ]
+}

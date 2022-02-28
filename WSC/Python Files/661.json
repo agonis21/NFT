@@ -1,0 +1,36 @@
+{
+    "name": "Chad #661",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYDBwmAi4npkqCoweXdbQobS61F7j5iRtD4CZWomcaLaz",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmYDBwmAi4npkqCoweXdbQobS61F7j5iRtD4CZWomcaLaz",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Celadon"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Polo"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Giga Chad"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

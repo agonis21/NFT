@@ -1,0 +1,36 @@
+{
+    "name": "Chad #650",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWs5X8fYFtysdDmgetk8LryQHzFDFWg9o2T5QxwKP5qHu",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmWs5X8fYFtysdDmgetk8LryQHzFDFWg9o2T5QxwKP5qHu",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Malibu Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Disco Suit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fresh Cut"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vampire"
+        }
+    ]
+}

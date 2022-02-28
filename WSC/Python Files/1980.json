@@ -1,0 +1,36 @@
+{
+    "name": "Chad #1980",
+    "description": "One small step for Chad, one giant leap for mankind.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRnRDwttpyiDvTWd54pTAi7ezZxKu9fQJCPrJcnqg3kPt",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmRnRDwttpyiDvTWd54pTAi7ezZxKu9fQJCPrJcnqg3kPt",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Light Beige"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Rockstar"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "80s Disco Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Michael B."
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Oval White Glasses"
+        }
+    ]
+}
